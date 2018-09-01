@@ -341,3 +341,49 @@ ALTER TABLE Odeljenja
 ADD CONSTRAINT U_Odeljenja
 UNIQUE (OdeljenjeBr, GodinaID)
 GO
+
+
+
+-- STORED PROCEDURE:
+
+-- login prof/admin
+CREATE PROCEDURE LoginProf
+@username nvarchar(50), @sifra nvarchar(50)
+AS
+
+BEGIN TRY
+
+	IF EXISTS (SELECT ProfesorID, Sifra FROM Profesori
+				WHERE ProfesorID = CAST(@username AS INT)
+				AND Sifra = @sifra 
+				AND ProfAdmin = 1)
+		BEGIN
+			RETURN 1
+		END
+	ELSE IF EXISTS (SELECT 1 FROM Profesori
+					WHERE ProfesorID = CAST(@username AS INT)
+					AND ProfAdmin = 0)
+		BEGIN
+			RETURN 2
+		END
+END TRY
+BEGIN CATCH
+	RETURN @@ERROR
+END CATCH
+GO
+
+-- login ucenik (roditelj)
+CREATE PROC LoginUc
+@username nvarchar(50), @sifra nvarchar(50)
+AS
+BEGIN TRY
+	IF EXISTS (SELECT 1 FROM Ucenici 
+				WHERE MaticniBroj = @username
+				AND Sifra = @sifra)
+		BEGIN
+			RETURN 0
+		END
+END TRY
+BEGIN CATCH
+	RETURN @@ERROR
+END CATCH
