@@ -344,6 +344,7 @@ GO
 
 ALTER TABLE Odeljenja
 ALTER CONSTRAINT U_Odeljenja
+GO
 
 
 
