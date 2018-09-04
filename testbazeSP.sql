@@ -276,11 +276,12 @@ BEGIN TRY
 
 		BEGIN
 			PRINT N'Taj profesor nije razredni tom uceniku, unos ocene nije dozvoljen'
-			RETURN 1
+			--RETURN 1
 		END
 		
-	-- da li taj profesor predaje taj predmet tom uceniku 
-	ELSE IF NOT EXISTS
+	-- da li taj profesor predaje taj predmet tom uceniku - ovaj deo NIJE DOBAR!!!
+	--ELSE--
+	 IF NOT EXISTS
 		(SELECT * FROM Ucenici JOIN ProfesoriPredmetiOdeljenja AS PPO ON Ucenici.OdeljenjeID = PPO.OdeljenjeID
 		JOIN UceniciPredmeti AS UP ON PPO.PredmetID = UP.PredmetID
 		JOIN Predmeti ON UP.PredmetID = Predmeti.PredmetID
@@ -309,7 +310,7 @@ END CATCH
 
 
 EXEC  OceneDnevnikINSERT N'друго', 4, N'20180901', N'1111112', 1, 1
--- NE VALJA! Dozvoljava Srbisti da unese ocenu iz geografije
+-- NE VALJA! Dozvoljava Srbisti da unese ocenu iz geografije - ZATO STO JE RAZREDNI!?
 
 /*
 Da li provere 
@@ -336,4 +337,14 @@ JOIN Profesori ON Profesori.ProfesorID = OceneDnevnik.ProfesorID
 GO
 
 SELECT * FROM SveOcene WHERE ImeUcenika = N'Миле'
+GO
+
+SELECT * FROM OceneDnevnik
+GO
+
+
+EXEC  OceneDnevnikINSERT N'друго', 4, N'20180901', N'1111112', 12, 3
+GO
+
+EXEC  OceneDnevnikINSERT N'друго', 4, N'20180901', N'1111112', 14, 3
 GO

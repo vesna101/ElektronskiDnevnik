@@ -5,6 +5,7 @@ USE master
 GO
 
 CREATE DATABASE [ElDnevnik2]
+/*
 
  CONTAINMENT = NONE
  ON  PRIMARY 
@@ -12,6 +13,7 @@ CREATE DATABASE [ElDnevnik2]
  LOG ON 
 ( NAME = N'ElDnevnik2_log', FILENAME = N'D:\CET praksa\DataLog\ElDnevnik2_Log' , SIZE = 8192KB , MAXSIZE = 102400KB , FILEGROWTH = 10%)
 GO
+*/
 
 USE ElDnevnik2
 GO
@@ -342,8 +344,7 @@ ADD CONSTRAINT U_Odeljenja
 UNIQUE (OdeljenjeBr, GodinaID)
 GO
 
-ALTER TABLE Odeljenja
-ALTER CONSTRAINT U_Odeljenja
+
 
 
 
