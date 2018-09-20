@@ -1,0 +1,112 @@
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\ElektronskiDnevnik.dll.config
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\ElektronskiDnevnik.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\ElektronskiDnevnik.pdb
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\csc.exe
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\csc.exe.config
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\csc.rsp
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\csi.exe
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\csi.rsp
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\System.AppContext.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\System.Collections.Immutable.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\System.IO.FileSystem.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\System.Reflection.Metadata.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\vbc.exe
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\vbc.exe.config
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\vbc.rsp
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\VBCSCompiler.exe
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\VBCSCompiler.exe.config
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\Baza.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\Baza.pdb
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\obj\Debug\ElektronskiDnevnik.csprojAssemblyReference.cache
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\obj\Debug\ElektronskiDnevnik.csproj.CoreCompileInputs.cache
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\obj\Debug\ElektronskiDnevnik.csproj.CopyComplete
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\obj\Debug\ElektronskiDnevnik.dll
+D:\CET praksa\SolElektronskiDnevnik\ElektronskiDnevnik\obj\Debug\ElektronskiDnevnik.pdb
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\ElektronskiDnevnik.dll.config
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\ElektronskiDnevnik.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\ElektronskiDnevnik.pdb
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\csc.exe
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\csc.exe.config
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\csc.rsp
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\csi.exe
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\csi.rsp
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\System.AppContext.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\System.Collections.Immutable.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\System.IO.FileSystem.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\System.Reflection.Metadata.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\vbc.exe
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\vbc.exe.config
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\vbc.rsp
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\VBCSCompiler.exe
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\roslyn\VBCSCompiler.exe.config
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\Baza.pdb
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\obj\Debug\ElektronskiDnevnik.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\obj\Debug\ElektronskiDnevnik.pdb
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\bin\Baza.dll
+C:\PraksaRG\20092018\SolElektronskiDnevnik\ElektronskiDnevnik\obj\Debug\ElektronskiDnevnik.csprojResolveAssemblyReference.cache
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\ElektronskiDnevnik.dll.config
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\ElektronskiDnevnik.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\ElektronskiDnevnik.pdb
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\csc.exe
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\csc.exe.config
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\csc.rsp
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\csi.exe
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\csi.rsp
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\System.AppContext.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\System.Collections.Immutable.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\System.IO.FileSystem.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\System.Reflection.Metadata.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\vbc.exe
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\vbc.exe.config
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\vbc.rsp
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\VBCSCompiler.exe
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\roslyn\VBCSCompiler.exe.config
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\Baza.pdb
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\obj\Debug\ElektronskiDnevnik.csprojAssemblyReference.cache
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\obj\Debug\ElektronskiDnevnik.csproj.CoreCompileInputs.cache
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\obj\Debug\ElektronskiDnevnik.csproj.CopyComplete
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\obj\Debug\ElektronskiDnevnik.dll
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\obj\Debug\ElektronskiDnevnik.pdb
+D:\CET praksa\SolElektronskiDnevnik2\ElektronskiDnevnik\bin\Baza.dll

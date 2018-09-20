@@ -85,7 +85,7 @@ namespace Baza
         {
             Cm.Connection = Cn;
             Cm.CommandType = CommandType.StoredProcedure;
-            Cm.CommandText = "dbo.PrikazOcena";
+            Cm.CommandText = "dbo.PrikazOcena2";
             Cm.Parameters.Add(new SqlParameter("@RETURN_VALUE", SqlDbType.Int, 4, ParameterDirection.ReturnValue, true, 0, 0, "", DataRowVersion.Current, null)); //proveriti
             Cm.Parameters.AddWithValue("@MaticniBroj", MaticniBroj);
             Cm.Parameters.AddWithValue("@PredmetID", PredmetID);
@@ -163,6 +163,24 @@ namespace Baza
             return Odeljenja;
 
         }
+
+
+        public DataTable PrikazOdeljenjaZaProfesoraDT(int ProfesorID)
+        {
+            //List<string> Odeljenja = new List<string>();
+            DataTable Odeljenja = new DataTable();
+            Cm.Connection = Cn;
+            Cm.CommandType = CommandType.StoredProcedure;
+            Cm.CommandText = "dbo.PrikazOdeljenja";
+            Cm.Parameters.AddWithValue("@ProfesorID", ProfesorID);
+            Cn.Open();
+            SqlDataAdapter DAOdeljenja = new SqlDataAdapter(Cm);
+            DAOdeljenja.Fill(Odeljenja);
+            Cn.Close();
+            return Odeljenja;
+
+        }
+
 
 
 
@@ -248,7 +266,7 @@ namespace Baza
         {
             Cm.Connection = Cn;
             Cm.CommandType = CommandType.StoredProcedure;
-            Cm.CommandText = "dbo.PrikazOcena";
+            Cm.CommandText = "dbo.PrikazOcena2";
             Cm.Parameters.Add(new SqlParameter("@RETURN_VALUE", SqlDbType.Int, 4, ParameterDirection.ReturnValue, true, 0, 0, "", DataRowVersion.Current, null)); //proveriti
             Cm.Parameters.AddWithValue("@MaticniBroj", MaticniBroj);
             Cm.Parameters.AddWithValue("@PredmetID", PredmetID);
