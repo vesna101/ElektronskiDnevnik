@@ -1,0 +1,12 @@
+D:\CET.NET\MVCVezba\DLLs\Baza\Baza\bin\Debug\Baza.dll
+D:\CET.NET\MVCVezba\DLLs\Baza\Baza\bin\Debug\Baza.pdb
+D:\CET.NET\MVCVezba\DLLs\Baza\Baza\obj\Debug\Baza.csprojAssemblyReference.cache
+D:\CET.NET\MVCVezba\DLLs\Baza\Baza\obj\Debug\Baza.csproj.CoreCompileInputs.cache
+D:\CET.NET\MVCVezba\DLLs\Baza\Baza\obj\Debug\Baza.dll
+D:\CET.NET\MVCVezba\DLLs\Baza\Baza\obj\Debug\Baza.pdb
+D:\CET praksa\DLLs\Baza\Baza\bin\Debug\Baza.dll
+D:\CET praksa\DLLs\Baza\Baza\bin\Debug\Baza.pdb
+D:\CET praksa\DLLs\Baza\Baza\obj\Debug\Baza.csprojAssemblyReference.cache
+D:\CET praksa\DLLs\Baza\Baza\obj\Debug\Baza.csproj.CoreCompileInputs.cache
+D:\CET praksa\DLLs\Baza\Baza\obj\Debug\Baza.dll
+D:\CET praksa\DLLs\Baza\Baza\obj\Debug\Baza.pdb
